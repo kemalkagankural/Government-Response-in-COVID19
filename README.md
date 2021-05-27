@@ -26,8 +26,12 @@ I have two different datasets. First one is WHO Covid19 disease numbers and Othe
 Reference
 
 https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker
+
 https://data.humdata.org/visualization/covid19-humanitarian-operations/?layer=covid-19_cases_and_deaths
+
 https://covid19.who.int/
+
 https://www.nature.com/articles/s41562-021-01079-8
+
 Thomas Hale , Noam Angrist , Rafael Goldszmidt , Beatriz Kira , Anna Petherick , Toby Phillips, Samuel Webster, Emily Cameron-Blake , Laura Hallas, Saptarshi Majumdar, and Helen Tatlow. (2021). “A global panel database of pandemic policies (Oxford COVID-19 Government Response Tracker).” Nature Human Behaviour.
 
