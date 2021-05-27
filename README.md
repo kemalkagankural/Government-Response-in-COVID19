@@ -1,5 +1,6 @@
 
 Introduction the Project
+
 Today, Covid-19 has affected the whole world. We have been fighting this disease for over a year. With the spread of the corona virus around the world, countries have revealed many restrictions and control channels. We see that the indexes of these restrictions are linked to the increase of corona virus.
 
 What is Project Topic?
