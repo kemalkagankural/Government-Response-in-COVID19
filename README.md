@@ -24,6 +24,9 @@ I collected this dataset with the number of cases in the countries until the end
 
 I have two different datasets. First one is WHO Covid19 disease numbers and Other dataset is Government Response Stringency index rate. First one has 116131 files. Other has almost one million  files.
 
+## Project Presentation Video
+[Project Presentation Video Link](https://disk.yandex.com.tr/i/LLfOeZXieJP0uw)
+
 ## Reference
 
 *https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker*
@@ -35,4 +38,3 @@ I have two different datasets. First one is WHO Covid19 disease numbers and Othe
 *https://www.nature.com/articles/s41562-021-01079-8*
 
 *Thomas Hale , Noam Angrist , Rafael Goldszmidt , Beatriz Kira , Anna Petherick , Toby Phillips, Samuel Webster, Emily Cameron-Blake , Laura Hallas, Saptarshi Majumdar, and Helen Tatlow. (2021). “A global panel database of pandemic policies (Oxford COVID-19 Government Response Tracker).” Nature Human Behaviour.*
-
